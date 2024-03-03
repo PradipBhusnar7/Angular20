@@ -1,0 +1,19 @@
+Part1: Fistly install Node.Js in Our system.
+To check node version: node -v   
+ Step1: npm install -g @angular/cli   
+    or  npm install -g @angular/cli@10.0.0  
+ Step2: ng --version 
+ Step3: ng new (project name) --no-standalone
+ Step4: ng serve      
+ 
+ To create component:
+ Step5: ng generate component (component name) or ng g c (component name)
+
+ To generate module
+ Step6: ng g m user-auth
+ Step7: ng g m user-auth/sign-in
+
+ Step8: ng g class (class-name)
+
+ To run and depoly Angular application in server 
+ Step9: ng build

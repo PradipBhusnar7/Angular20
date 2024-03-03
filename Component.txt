@@ -1,0 +1,1 @@
+Component: Components are the main building blocks for Angular applications.

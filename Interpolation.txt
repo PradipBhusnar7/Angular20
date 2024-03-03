@@ -1,0 +1,9 @@
+Interpolation:
+              One-way Data-Binding technique that is used to transfer the data from a TypeScript code to an HTML template (view).
+
+With addition
+Without increment,decrement.
+
+--inline-style
+--inline-template
+--inline-style --inline-template

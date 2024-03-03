@@ -1,0 +1,40 @@
+Angular: 
+        It is front end development framework.
+        fast, easily make website.
+        For develop single page application.
+        Developed by Google.
+        MVC framework.
+        Open source.
+
+        Bug fixes
+        New features.
+        Speed and other improvements.
+        Current version 14.
+
+Q.Difference between Angular and Angular.Js?
+=>
+  Angular is rewritten version, structure and upgraded framework.
+  Angular.js it is old version.
+  
+        
+Angular CLI(Commond line Interface):
+                                    Which gives Commond for angular setup, project build,in which we can install components, routes, which help in developing project.
+
+To check node version: node -v   
+ Step1: npm install -g @angular/cli   
+ Step2: ng --version 
+ Step3: ng new (project name) --no-standalone
+ Step4: ng serve      
+ 
+ To create component:
+ Step5: ng generate component (component name) or ng g c (component name)
+
+ To generate module
+ Step6: ng g m user-auth
+ Step7: ng g m user-auth/sign-in
+
+ Step8: ng g class (class-name)
+
+ To run and depoly Angular application in server 
+ Step9: ng build
+                      
